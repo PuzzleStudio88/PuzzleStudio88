@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+Owners
+[Mateus de Mattos](https://github.com/mateusmattos1)
+[Shayane Teixeira](https://github.com/ShaTeixeira)
+
 <!--
 **PuzzleStudio88/PuzzleStudio88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
