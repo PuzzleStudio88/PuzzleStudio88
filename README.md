@@ -2,7 +2,9 @@
 
 
 Owners
+<br />
 [Mateus de Mattos](https://github.com/mateusmattos1)
+<br />
 [Shayane Teixeira](https://github.com/ShaTeixeira)
 
 <!--
