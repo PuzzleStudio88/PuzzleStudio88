@@ -1,23 +1,32 @@
 ### Hi there 👋
 
+<span>
+Puzzle Studio, é uma empresa especializada em desenvolver experiências digitais através de tecnologia e design.
+Nossa missão é impulsionar sua marca, aumentar seu alcance e melhorar a experiência dos seus usuários, e não paramos até entregar um resultado nada menos que excelente.
+</span>
 
-Owners
+
+<br/>
+<br/>
+
+<a href="https://">Site da plataforma</a>
+
+<span>
+Importante lembrar que por trás de todo negócio de sucesso, existe um time de sucesso. E o meu, é movido por mentes inquietas e criativas que querem fazer a diferença e deixar a nossa marca no mercado.
+Se você está buscando uma parceria de confiança para elevar a presença digital da sua marca, estamos aqui para isso.
+</span>
+
+<br/>
+<br/>
+
+Fundadora: [Shayane Teixeira](https://github.com/ShaTeixeira)
 <br />
-[Mateus de Mattos](https://github.com/mateusmattos1)
-<br />
-[Shayane Teixeira](https://github.com/ShaTeixeira)
+Co-fundador: [Mateus de Mattos](https://github.com/mateusmattos1)
 
-<!--
-**PuzzleStudio88/PuzzleStudio88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre nós
+  🔸 Procurando projetos...
+  <br />
+  🔸 Ultimo projeto desenvolvido Vou de Van - MG
+  <br />  
+  🔸 Siga a gente [Instagram](https://www.instagram.com/puzzle.studio88/)
+<br>
